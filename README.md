@@ -1,4 +1,4 @@
-### Languages:
+## Languages
 <div>
   <img src="http://rust-lang.org/logos/rust-logo-512x512.png" title="Rust" alt="Rust" color="#dddddd" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"  title="VueJS" alt="VueJS" width="40" height="40"/>&nbsp;  
@@ -11,4 +11,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-[Buy me a coffee](https://bmc.link/skirmishuk)
+### Support me
+<a href="https://www.buymeacoffee.com/skirmishuk"><img src="https://i.imgur.com/uY8wEzC.png" title="Buy me a coffee" width="150" height="40" alt="Buy me a coffee"/></a>
